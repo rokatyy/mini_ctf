@@ -12,4 +12,6 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 
 Binwalk could only pull out the zip archive, which turned out to be password-protected
 But we see PNG signature there, try to extract by hands, and find image with password for archive, open archive.
+![secreeeeeeeeyt](https://user-images.githubusercontent.com/35141662/48094539-7c2f2f80-e223-11e8-82d5-6fbdb4bacdc6.png)
+
 FLAG: 1t_w4s_r34ll9_34zy!

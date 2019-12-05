@@ -1,5 +1,8 @@
 # mini_ctf
-(mini ctf ITMO university just for 3 hours)
+
+All tasks have level structure. You can not begin solving task3 if you haven't yet solved task2 from the same type of tasks.
+
+*(mini ctf ITMO university just for 3 hours)*
 STEGANO task1:
 
 First of all, it was necessary to run binwalk:
